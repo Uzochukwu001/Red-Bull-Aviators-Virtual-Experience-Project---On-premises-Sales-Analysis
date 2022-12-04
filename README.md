@@ -5,7 +5,10 @@
 
 
 
-This is a Virtual Experience Program found and completed on the Forage's website. It provided me the opportunity to step into the shoes of a typical Red Bull Sales Analytics team member and complete tasks that replicate the work done every day, learning how to perform sales accounts data analysis, how to communicate key trends/insights, how to close sales and how to overcome sales objections. The program is self-paced and typically takes 2-3 hours to complete. Necessary files associated with this program were uploaded which include:
+This is a Virtual Experience Program found and completed on the Forage's website. It provided me the opportunity to step into the shoes of a typical Red Bull Sales Analytics team member and complete tasks that replicate the work done every day, learning how to perform sales accounts data analysis, how to communicate key trends/insights, how to close sales and how to overcome sales objections. 
+
+
+The program is self-paced and typically takes 2-3 hours to complete. Necessary files associated with this program were uploaded which include:
 
 - Certificate: This is the certificate awarded at the completion of this virtual experience program.
 - Model Dataset from Red Bull: This is the dataset provided for analysis.
@@ -33,40 +36,66 @@ This section cotains PowerPoint slides showing the various charts as solutions f
 - The content slide page.
 
 
+
+
 ![slide_1_content](https://user-images.githubusercontent.com/112668327/205489809-cf16e7b3-a8b2-4833-9cd6-84bdcd3934e5.png)
+
+
 
 
 - The Sales Growth of all Accounts and Account Types:
 
 
+
+
 ![slide_2_sales_growth_of_accounts](https://user-images.githubusercontent.com/112668327/205483222-6806cd12-9ee3-4d0e-9dab-58315ba6bdb4.png)
+
+
 
 
 - The 5-Year Compound Annual Growth Rate (CAGR) in Sales Volume: This was obtained using RRI formular in Microsoft Excel.
 
 
+
+
 ![slide_3_five_years_sales_cagr](https://user-images.githubusercontent.com/112668327/205483243-6ea46461-6628-48e7-bb9f-0c7a312216e9.png)
+
+
 
 
 - The Best and Worst Performing Accounts in each Account Type (using the calculated 5-Year CAGR):
 
 
+
+
 ![slide_4_best_and_worst_performers](https://user-images.githubusercontent.com/112668327/205483261-051911cc-88d4-445a-8fa1-fbfe8f07c5c1.png)
+
+
 
 
 - The Total Sales volume for all Account Types per Year:
 
 
+
+
 ![slide_5_total_sales_volume](https://user-images.githubusercontent.com/112668327/205483270-63099a4f-933f-429e-abaa-58659ecf845a.png)
+
+
 
 
 - The Sales Growth Trend of all Accounts.
 
 
+
+
 ![slide_6_sales_yearly_growth](https://user-images.githubusercontent.com/112668327/205483278-ee5362eb-e2f8-4431-8d00-c3ce217884e1.png)
 
 
+
+
 - Key observations.
+
+
 
 
 ![slide_7_observations](https://user-images.githubusercontent.com/112668327/205483309-e022af9d-4295-4ad0-b91a-5c6fd4d23656.png)
