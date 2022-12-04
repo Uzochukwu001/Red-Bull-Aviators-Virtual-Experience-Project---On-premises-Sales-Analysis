@@ -5,7 +5,13 @@
 
 
 
-This is a Virtual Experience Program found and completed on the Forage's website. It provided me the opportunity to step into the shoes of a typical Red Bull Sales Analytics team member and complete tasks that replicate the work done every day, learning how to perform sales accounts data analysis, how to communicate key trends/insights, how to close sales and how to overcome sales objections. The program is self-paced and typically takes 2-3 hours to complete. Necessary files associated with this program was uploaded too. There were two sections in the program with distinct objectives as well as associated learnable skills, viz:
+This is a Virtual Experience Program found and completed on the Forage's website. It provided me the opportunity to step into the shoes of a typical Red Bull Sales Analytics team member and complete tasks that replicate the work done every day, learning how to perform sales accounts data analysis, how to communicate key trends/insights, how to close sales and how to overcome sales objections. The program is self-paced and typically takes 2-3 hours to complete. Necessary files associated with this program were uploaded which include:
+
+- Certificate: This is the certificate awarded at the completion of this virtual experience program.
+- Model Dataset: This is the given dataset
+- Model Template: This is the expected design template.
+
+There were two sections in the program with distinct objectives as well as associated learnable skills, viz:
 
 1. Account Data Analysis: Here, the dataset was analyzed to identify key trends and opportunities for sales growth and also communicate insights from the findings. Practical skills gained from working on this task are Data Analysis, Data Presentation, and Communication Strategy
 
@@ -44,5 +50,6 @@ The key observations and inferences can be seen in the image below
 ![slide_7_observations](https://user-images.githubusercontent.com/112668327/205483309-e022af9d-4295-4ad0-b91a-5c6fd4d23656.png)
 
 
+## CONCLUSION
 
-The Sales Growth of all Accounts and Account Types
+This is an amazing experience for me as I discovered a new sales analysis technique using Compound Annual Growth Rate(CAGR) calculated on Microsoft Excel. The Completion Certificate was uploaded as a pdf file.
