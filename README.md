@@ -28,7 +28,13 @@ N.B. All relevant data cleaning and transformation processes for the different o
 
 #### ACCOUNTS DATA ANALYSIS.
 
-This section cotains charts indicating solutions for the given objectives as well as observational insights from the charts.
+This section cotains PowerPoint slides showing the various charts as solutions for the given objectives as well as observational insights from the charts.
+
+- The content slide page.
+
+
+![slide_1_content](https://user-images.githubusercontent.com/112668327/205489809-cf16e7b3-a8b2-4833-9cd6-84bdcd3934e5.png)
+
 
 - The Sales Growth of all Accounts and Account Types:
 
