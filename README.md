@@ -5,7 +5,7 @@
 
 
 
-This is a Virtual Experience Program found and completed on the Forage's website. It provided me the opportunity to step into the shoes of a typical Red Bull Sales Analytics team member and complete tasks that replicate the work done every day, learning how to perform sales accounts data analysis, how to communicate key trends/insights, how to close sales and how to overcome sales objections. 
+This is a Virtual Experience Program found and completed on the Forage's website. It provided me the opportunity to step into the shoes of a typical Red Bull Sales Analytics team member and complete tasks that replicate the work done every day, learning how to perform sales accounts data analysis, how to communicate key trends/insights, how to close sales and also how to overcome sales objections. 
 
 
 The program is self-paced and typically takes 2-3 hours to complete. Necessary files associated with this program were uploaded which include:
